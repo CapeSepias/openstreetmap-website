@@ -153,7 +153,7 @@ GEM
     crack (0.4.5)
       rexml
     crass (1.0.6)
-    dalli (3.2.1)
+    dalli (3.2.3)
     debug_inspector (1.1.0)
     deep_merge (1.2.2)
     delayed_job (4.1.10)
